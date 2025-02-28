@@ -3,6 +3,8 @@
 
 This repository holds my solutions the OSTEP projects.
 
+Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
+
 ## C/Linux Projects
 
 ### Initial Projects
@@ -12,31 +14,29 @@ This repository holds my solutions the OSTEP projects.
 
 ### Processes and Scheduling
 
-* [Shell](processes-shell)
+- [ ] [Shell](processes-shell)
 
 ### Virtual Memory
 
-* Memory Allocator
+- [ ] Memory Allocator
 
 ### Concurrency
 
-* [Web Server](concurrency-webserver)
-* [Parallel Zip](concurrency-pzip)
-* [MapReduce](concurrency-mapreduce)
-* Web Crawler
+- [ ] [Web Server](concurrency-webserver)
+- [ ] [Parallel Zip](concurrency-pzip)
+- [ ] [MapReduce](concurrency-mapreduce)
 
 ### File Systems
 
-* [File System Checker](filesystems-checker)
+- [ ] [File System Checker](filesystems-checker)
 
 ### Distributed Systems
 
 
 ## Kernel Hacking Projects (xv6)
 
-These projects all are to be done inside the
-[xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html) kernel based on an early
-version of Unix and developed at MIT.
+These projects all are done inside the
+[xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html) kernel based on an early version of Unix and developed at MIT.
 
 ### Initial Projects
 
