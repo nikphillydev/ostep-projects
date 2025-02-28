@@ -1,24 +1,19 @@
 
 # Projects for an Operating Systems Class
 
-This repository holds my solutions the OSTEP projects.
+This repository holds my solutions to Operating Systems: Three Easy Pieces (OSTEP) textbook projects. Projects are marked "complete - [x]" if they pass the provided test cases.
 
 Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
 
-## C/Linux Projects
+## C/C++ and Linux Projects
 
 ### Initial Projects
 
 - [ ] [Unix Utilities](initial-utilities) (cat, grep, zip/unzip)
-- [ ] [Reverse](initial-reverse) (very simple reverse program)
 
 ### Processes and Scheduling
 
 - [ ] [Shell](processes-shell)
-
-### Virtual Memory
-
-- [ ] Memory Allocator
 
 ### Concurrency
 
@@ -40,21 +35,18 @@ These projects all are done inside the
 
 ### Initial Projects
 
-* [Intro To xv6](initial-xv6)
+- [ ] [Intro To xv6](initial-xv6)
 
 ### Processes and Scheduling
 
-* [Scheduling (Lottery)](scheduling-xv6-lottery)
+- [ ] [Scheduling (Lottery)](scheduling-xv6-lottery)
 
 ### Virtual Memory
 
-* [Virtual Memory (Null Pointer and Read-Only Regions)](vm-xv6-intro)
+- [ ] [Virtual Memory (Null Pointer and Read-Only Regions)](vm-xv6-intro)
 
 ### Concurrency
 
-* [Kernel Threads (Basic Implementation)](concurrency-xv6-threads)
-
-### File Systems
-
+- [ ] [Kernel Threads (Basic Implementation)](concurrency-xv6-threads)
 
 
