@@ -1,7 +1,7 @@
 
 # Projects for an Operating Systems Class
 
-This repository holds my solutions to Operating Systems: Three Easy Pieces (OSTEP) textbook projects. Projects are marked "complete - [x]" if they pass the provided test cases.
+This repository holds my solutions to Operating Systems: Three Easy Pieces (OSTEP) textbook projects. Projects are marked as "complete" if they pass the provided test cases.
 
 Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
 
