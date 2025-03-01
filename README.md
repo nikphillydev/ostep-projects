@@ -3,13 +3,14 @@
 
 This repository holds my solutions to Operating Systems: Three Easy Pieces (OSTEP) textbook projects. Projects are marked as "complete" if they pass the provided test cases.
 
-Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
+Each project folder has a README with the project description. Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
 
 ## C/Linux Projects
 
 ### Initial Projects
 
 - [ ] [Unix Utilities](initial-utilities) (cat, grep, zip/unzip)
+- [ ] [Reverse](initial-reverse)
 
 ### Processes and Scheduling
 
