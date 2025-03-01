@@ -5,7 +5,7 @@ This repository holds my solutions to Operating Systems: Three Easy Pieces (OSTE
 
 Please see [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master?tab=readme-ov-file) for more information.
 
-## C/C++ and Linux Projects
+## C/Linux Projects
 
 ### Initial Projects
 
