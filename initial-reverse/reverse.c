@@ -81,7 +81,7 @@ int main(int argc, char *argv[])
 
     while (getline(&curr->buffer, &curr->nbytes, in) != EOF)     // Get a line of input, store in current node
     {
-        // Create the next node in the linked list
+        // Create the next node
         struct node *next = (struct node *)malloc(sizeof(struct node));
         if (next == NULL)
         {
