@@ -9,8 +9,8 @@ Each project folder has a README with the project description. Please see [ostep
 
 ### Initial Projects
 
-- [ ] [Unix Utilities](initial-utilities) (cat, grep, zip/unzip)
-- [ ] [Reverse](initial-reverse)
+- [x] [Unix Utilities](initial-utilities) (cat, grep, zip/unzip)
+- [x] [Reverse](initial-reverse)
 
 ### Processes and Scheduling
 
